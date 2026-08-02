@@ -19,17 +19,6 @@ O projeto está publicado em nuvem e pode ser acessado de qualquer dispositivo s
 
 ---
 
-## 📸 Prévia do Projeto (Screenshots)
-
-O aplicativo foi desenhado no estilo **App-Like / SaaS Moderno**, se adaptando tanto ao **Dark Mode** quanto ao **Light Mode** e evitando a poluição visual dos relatórios tradicionais:
-
-| **Visão Geral & KPIs Executivos** | **Navegação por Abas (Vendas vs. Logística)** |
-| :---: | :---: |
-| <img src="https://placehold.co/600x320/1e293b/38bdf8?text=Dashboard+%2B+Cards+de+KPI" width="100%" alt="Prévia do Dashboard"> | <img src="https://placehold.co/600x320/1e293b/38bdf8?text=Abas+%2B+Gr%C3%A1ficos+Plotly" width="100%" alt="Prévia das Abas"> |
-* *(Dica: Você pode substituir os placeholders acima colocando imagens reais na pasta do projeto ou linkando prints gravados no GitHub)*.
-
----
-
 ## 🎯 O Problema de Negócio
 
 No varejo digital brasileiro, o crescimento sustentável depende do equilíbrio entre **receita** e **eficiência operacional**. Painéis tradicionais muitas vezes separam os números financeiros da performance logística, dificultando a visão sistêmica da diretoria.
