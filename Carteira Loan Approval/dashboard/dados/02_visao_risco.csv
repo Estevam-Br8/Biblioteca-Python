@@ -1,0 +1,7 @@
+"risco_credit_score","tipo_garantia","qtd_propostas","taxa_juros_media","taxa_rejeicao_pct"
+Alto Risco (<580),Secured,7228,9.17,85.32
+Alto Risco (<580),Unsecured,7244,9.27,84.76
+Baixo Risco (>700),Secured,18271,9.3,15.14
+Baixo Risco (>700),Unsecured,18009,9.25,14.9
+Médio Risco (580-700),Secured,598,9.26,68.39
+Médio Risco (580-700),Unsecured,650,8.96,72.0

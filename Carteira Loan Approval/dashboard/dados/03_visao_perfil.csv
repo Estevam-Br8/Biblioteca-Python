@@ -1,0 +1,10 @@
+"grau_instrucao","status_emprego","qtd_clientes","renda_media_anual","idade_media","volume_total_solicitado"
+Graduate,Employed,10320,83256.07,39.0,216520543
+High School,Employed,10237,83760.96,38.8,216489557
+High School,Self-Employed,6322,83946.24,38.7,133795172
+Graduate,Self-Employed,6256,84350.87,38.8,133510798
+Postgraduate,Employed,5314,83268.13,39.1,111903320
+High School,Unemployed,4210,83328.06,39.1,88558830
+Graduate,Unemployed,4211,82845.66,38.8,88120393
+Postgraduate,Self-Employed,3175,83659.84,38.9,66936613
+Postgraduate,Unemployed,1955,83759.02,38.9,41508579
